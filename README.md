@@ -1,7 +1,5 @@
 ### Hi,its me Amrit here. 👋
 
-<!--
-**aupreti11/aupreti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...amrit.upreti11@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Would like to be a software Engineer
 -->
